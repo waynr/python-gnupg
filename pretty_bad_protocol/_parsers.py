@@ -1512,6 +1512,7 @@ class Verify(object):
                 "SUCCESS",
                 "UNEXPECTED",
                 "ENCRYPTION_COMPLIANCE_MODE",
+                "DECRYPTION_COMPLIANCE_MODE",
                 "VERIFICATION_COMPLIANCE_MODE",
             ):
             pass
